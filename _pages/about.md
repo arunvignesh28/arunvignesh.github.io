@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second year Computer Science Ph.D. student in Arizona State University, USA. I am working in Knowledge Discovery and Data Mining (KDD) lab under the supervision of Dr. Yanjie Fu, specializing in Causal AI and Explainable AI.
+I am currently a second year Computer Science Ph.D. student in Arizona State University, USA. I am working in Knowledge Discovery and Data Mining (KDD) lab under the supervision of [Dr. Yanjie Fu](https://www.yanjiefu.com), specializing in Causal AI and Explainable AI.
 
 Before starting my Ph.D. program, I was working as a Software Development Engineer for 3 years in Alexa AI at Amazon and in Financial Projections at Fidelity Investments that laid a solid industrial exposure for my research interests.
 
