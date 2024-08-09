@@ -49,17 +49,17 @@ Cyber-Physical Infrastructures" was accepted at CIKM-2024.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *March 2018* Best Undergraduate Researcher 2017-2018, SSN College of Engineering, Anna University, India. 
+- *March 2018*: Best Undergraduate Researcher 2017-2018, SSN College of Engineering, Anna University, India. 
 
 # 📖 Educations
-- *August 2023 - Present*, Ph.D. in Computer Science, Arizona State University, Tempe, USA. 
-- *August 2018 - May 2020*, Masters in Computer Science, Arizona State University, Tempe, USA.
-- *July 2014 - April 2018*, Bachelors in Computer Science and Engineering, Anna University, Chennai, India. 
+- *August 2023 - Present*: Ph.D. in Computer Science, Arizona State University, Tempe, USA. 
+- *August 2018 - May 2020*: Masters in Computer Science, Arizona State University, Tempe, USA.
+- *July 2014 - April 2018*: Bachelors in Computer Science and Engineering, Anna University, Chennai, India. 
 
 # 💬 Invited Talks
-- *June 2024*, Research Talk and Workshop on Graph Neural Networks, Pondicherry University, Puducherry, India.
+- *June 2024*: Research Talk and Workshop on Graph Neural Networks, Pondicherry University, Puducherry, India.
 
 # 💻 Industry Experience
-- *May 2020 - May 2021*, Software Developer/Data Scientist in ASU Decision Center for Educational Excellence.
-- *June 2021 - January 2023*, Software Development Engineer in Amazon Alexa.
-- *January 2023 - June 2023*, Senior Software Development Engineer in Fidelity Investments.
+- *May 2020 - May 2021*: Software Developer/Data Scientist in ASU Decision Center for Educational Excellence.
+- *June 2021 - January 2023*: Software Development Engineer in Amazon Alexa.
+- *January 2023 - June 2023*: Senior Software Development Engineer in Fidelity Investments.
