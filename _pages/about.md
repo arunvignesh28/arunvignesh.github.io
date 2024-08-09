@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a second year Computer Science Ph.D. student in Arizona State University, USA. I am working in Knowledge Discovery and Data Mining (KDD) lab under the supervision of Dr. Yanjie Fu, specializing in Causal AI and Explainable AI.
 
-Before starting my Ph.D. program, I was working as a Software Development Engineer for 3 years in Alexa AI at Amazon and Financial Projections in Fidelity Investments giving me a solid industrial foundation for my research interests.
+Before starting my Ph.D. program, I was working as a Software Development Engineer for 3 years in Alexa AI at Amazon and in Financial Projections at Fidelity Investments that laid a solid industrial exposure for my research interests.
 
 I am also an avid photographer and a passionate programming teacher training young people excited about creative problem solving.
 
@@ -27,12 +27,14 @@ Interests: Causal Graph Learning, Generative AI, Explainable AI solutions for co
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 My work "Multi-view Causal Graph Fusion Based Anomaly Detection in
+Cyber-Physical Infrastructures" was accepted at CIKM-2024.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- *Will be updated soon*
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -44,19 +46,20 @@ Interests: Causal Graph Learning, Generative AI, Explainable AI solutions for co
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.03* Best Undergraduate Researcher 2017-2018, SSN College of Engineering, Anna University, India. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *August 2023 - Present*, Ph.D. in Computer Science, Arizona State University, Tempe, USA. 
+- *August 2018 - May 2020*, Masters in Computer Science, Arizona State University, Tempe, USA.
+- *July 2014 - April 2018*, Bachelors in Computer Science and Engineering, Anna University, Chennai, India. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *June 2024*, Research Talk and Workshop on Graph Neural Networks, Pondicherry University, Puducherry, India.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Industry Experience
+- *May 2020 - May 2021*, Software Developer/Data Scientist in ASU Decision Center for Educational Excellence.
+- *June 2021 - January 2023*, Software Development Engineer in Amazon Alexa.
+- *January 2023 - June 2023*, Senior Software Development Engineer in Fidelity Investments.
