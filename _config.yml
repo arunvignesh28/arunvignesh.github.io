@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Arun Vignesh"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/Linkedin-Profile.jpg"
   bio              : "Arizona State University"
   location         : "Arizona, USA"
   employer         :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Phoenix # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
