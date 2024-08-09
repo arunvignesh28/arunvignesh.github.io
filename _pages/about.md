@@ -27,7 +27,7 @@ Interests: Causal Graph Learning, Generative AI, Explainable AI solutions for co
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 My work "Multi-view Causal Graph Fusion Based Anomaly Detection in
+- *July 2024*: &nbsp;🎉🎉 My work "Multi-view Causal Graph Fusion Based Anomaly Detection in
 Cyber-Physical Infrastructures" was accepted at CIKM-2024.
 
 # 📝 Publications 
@@ -49,7 +49,7 @@ Cyber-Physical Infrastructures" was accepted at CIKM-2024.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2018.03* Best Undergraduate Researcher 2017-2018, SSN College of Engineering, Anna University, India. 
+- *March 2018* Best Undergraduate Researcher 2017-2018, SSN College of Engineering, Anna University, India. 
 
 # 📖 Educations
 - *August 2023 - Present*, Ph.D. in Computer Science, Arizona State University, Tempe, USA. 
