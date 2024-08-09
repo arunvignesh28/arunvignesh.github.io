@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Arun Vignesh Malarkkan"
-description              : "Computer Science Ph.D. student"
+description              : "Computer Science Researcher"
 repository               : "arunvignesh28/arunvignesh.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Arun Vignesh"
+  name             : "Arun Vignesh Malarkkan"
   avatar           : "images/Linkedin-Profile.jpg"
   bio              : "Arizona State University"
   location         : "Arizona, USA"
