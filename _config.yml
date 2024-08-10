@@ -132,7 +132,7 @@ gallery:
   source: "assets/images/portfolio"  # Directory where your images are stored
   destination: "photography"          # Directory where the gallery page will be generated
   title: "Photography Portfolio"
-  # output: "index"
+  output: "index"
   lightbox: true
   thumb:
     size: 300x300                    # Size of the thumbnail images
