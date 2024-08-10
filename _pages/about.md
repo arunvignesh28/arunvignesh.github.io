@@ -51,7 +51,7 @@ Cyber-Physical Infrastructures" was accepted at CIKM-2024.
 # 🎖 Honors and Awards
 - *March 2018*: Best Undergraduate Researcher 2017-2018, SSN College of Engineering, Anna University, India. 
 
-# 📖 Education
+# 📖 Educations
 - *August 2023 - Present*: Ph.D. in Computer Science, Arizona State University, Tempe, USA. 
 - *August 2018 - May 2020*: Masters in Computer Science, Arizona State University, Tempe, USA.
 - *July 2014 - April 2018*: Bachelors in Computer Science and Engineering, Anna University, Chennai, India. 
