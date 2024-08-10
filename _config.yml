@@ -127,6 +127,16 @@ defaults:
       layout: default
       author_profile: true
 
+#Gallery
+gallery:
+  source: "assets/images/portfolio"  # Directory where your images are stored
+  destination: "photography"          # Directory where the gallery page will be generated
+  title: "Photography Portfolio"
+  output: "index"
+  lightbox: true
+  thumb:
+    size: 300x300                    # Size of the thumbnail images
+  extensions: ["jpg", "png"]          # Image file types to include in the gallery
 
 # Sass/SCSS
 sass:
@@ -146,6 +156,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-gallery-generator
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
