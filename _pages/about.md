@@ -57,8 +57,9 @@ Cyber-Physical Infrastructures" was accepted at CIKM-2024.
 - *July 2014 - April 2018*: Bachelors in Computer Science and Engineering, Anna University, Chennai, India. 
 
 # 💬 Invited Talks
-- *June 2024*: Research Talk and Workshop on Graph Neural Networks, Pondicherry University, Puducherry, India.
-
+- *July 2024*: Research Talk and Workshop on Graph Neural Networks, Pondicherry University, Puducherry, India.
+- *June 2018*: Workshop on "Introduction to Machine Learning", Pondicherry University, Pudicherry, India.
+- 
 # 💻 Industry Experience
 - *May 2020 - May 2021*: Software Developer/Data Scientist in ASU Decision Center for Educational Excellence.
 - *June 2021 - January 2023*: Software Development Engineer in Amazon Alexa.
