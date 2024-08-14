@@ -32,7 +32,8 @@ Cyber-Physical Infrastructures" was accepted at CIKM-2024.
 
 # 📝 Publications 
 
-- *Will be updated soon*
+- Text based Generation of Images using Deep Learning – Vol-05 Issue-09, International Journal of Advanced Research in Science, Engineering and Technology, ISSN: 2350-0328, Vol.5, Sept. - Dec.2018.
+- Manuscript Analysis and Event Extraction using Natural Language Processing and Convolutional Neural Networks – Vol-07 Issue- 04, International Journal of Engineering Sciences and Management, ISSN: 2277-5528, Vol.7, Oct. - Dec.2017.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
