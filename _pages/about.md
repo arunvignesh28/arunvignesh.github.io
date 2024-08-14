@@ -29,6 +29,7 @@ Interests: Causal Graph Learning, Generative AI, Explainable AI solutions for co
 # 🔥 News
 - *July 2024*: &nbsp;🎉🎉 My work "Multi-view Causal Graph Fusion Based Anomaly Detection in
 Cyber-Physical Infrastructures" was accepted at CIKM-2024.
+-  *May 2024*: &nbsp; My work "Causal Graphs as Cyberattack Descriptors for Anomaly Detection in Critical Public Infrastructures" is under review at ICDM-2024.
 
 # 📝 Publications 
 
