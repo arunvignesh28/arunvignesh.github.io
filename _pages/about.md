@@ -23,7 +23,7 @@ Before starting my Ph.D. program, I was working as a Software Development Engine
 
 I am also an avid photographer and a passionate programming teacher training young people excited about creative problem solving.
 
-Interests: Causal Graph Learning, Generative AI, Explainable AI solutions for complex real-time industrial infrastructure problems.
+Interests: Causal Graph Learning, Knowledge Graph Representation and Reasoning, Generative AI, Explainable AI solutions for complex real-time industrial infrastructure problems.
 
 
 # 🔥 News
